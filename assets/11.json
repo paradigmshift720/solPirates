@@ -1,0 +1,28 @@
+{
+  "name": "Michael Saylor",
+  "symbol": "CL",
+  "description": "The Legend Michael Saylor",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "https://twitter.com/Cryptomission10",
+  "edition": 0,
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3tdzDUh7NA4QYT1d8cHLQxJn3dvWEAApEVzgkhhd7Yc5",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Crypto OG Legends",
+    "familly": "Crypto Legends"
+  }
+}

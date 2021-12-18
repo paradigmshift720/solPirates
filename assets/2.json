@@ -1,0 +1,28 @@
+{
+  "name": "Cobie",
+  "symbol": "CL",
+  "description": "The Man the Legend Cobie",
+  "seller_fee_basis_points": 1000,
+  "image": "image.png",
+  "external_url": "https://twitter.com/Cryptomission10",
+  "edition": 2,
+  "properties": {
+    "files": [
+      {
+        "uri": "image.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "3tdzDUh7NA4QYT1d8cHLQxJn3dvWEAApEVzgkhhd7Yc5",
+        "share": 100
+      }
+    ]
+  },
+  "collection": {
+    "name": "Crypto OG Legends",
+    "familly": "Crypto Legends"
+  }
+}
